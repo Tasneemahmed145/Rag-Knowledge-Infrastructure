@@ -1,8 +1,35 @@
-# Knowledge Infrastructure – EU AI Act Retrieval System
+# EU AI Act Knowledge Infrastructure | Semantic Retrieval for RAG
 
-A reproducible knowledge infrastructure pipeline for collecting, cleaning, chunking, embedding, storing, retrieving, and evaluating official EU AI Act content.
+**A reproducible, end-to-end retrieval pipeline for official European Union AI regulation content.** The system collects, cleans, chunks, embeds, stores, retrieves, and evaluates EU AI Act documents using Python, Sentence Transformers, PostgreSQL, and pgvector.
 
-The system builds a semantic search pipeline over official EU regulatory sources using Python, Sentence Transformers, PostgreSQL, and pgvector.
+> **Scope:** This repository implements the *retrieval and knowledge infrastructure* that can support Retrieval-Augmented Generation (RAG). It does not claim to include an LLM-based answer generation component.
+
+## At a Glance
+
+| Metric | Recorded result |
+|---|---:|
+| Source documents | 60 |
+| Processed chunks | 227 |
+| Vector embeddings | 227 |
+| Embedding dimensions | 384 |
+| Retrieval evaluation queries | 5 |
+| Hit@5 | 100% (5/5 queries) |
+| Mean Reciprocal Rank (MRR) | 0.7000 |
+
+*These results reflect the recorded run in this repository. The retrieval metrics are based on a small, five-query evaluation set and should not be interpreted as a general performance guarantee.*
+
+## Tech Stack
+
+- **Language:** Python
+- **Text processing:** Document cleaning, metadata enrichment, and overlapping word-based chunking
+- **Embeddings:** Sentence Transformers (`sentence-transformers/all-MiniLM-L6-v2`)
+- **Vector search and storage:** PostgreSQL + pgvector (cosine-distance retrieval)
+- **Environment:** Docker Compose, Python virtual environment
+- **Evaluation:** Hit@5 and Mean Reciprocal Rank (MRR)
+
+## Project Context
+
+Developed as part of the **Qubettera AI training program**. This independent portfolio repository documents the implementation and its recorded evaluation results. The project focuses on the retrieval infrastructure for working with official EU AI Act material.
 
 ---
 
@@ -65,7 +92,7 @@ data/raw/
 ## Project Structure
 
 ```text
-knowledge-infrastructure/
+Rag-Knowledge-Infrastructure/
 │
 ├── data/
 │   ├── raw/
@@ -128,8 +155,8 @@ docker --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/Tasneemahmed145/knowledge-infrastructure.git
-cd knowledge-infrastructure
+git clone https://github.com/Tasneemahmed145/Rag-Knowledge-Infrastructure.git
+cd Rag-Knowledge-Infrastructure
 ```
 
 Create a virtual environment:
@@ -497,7 +524,7 @@ python src/retrieval/evaluate.py
 
 ---
 
-## Current Milestone Status
+## Implementation Status
 
 | Component | Status |
 |---|---|
@@ -513,7 +540,7 @@ python src/retrieval/evaluate.py
 
 ---
 
-## Current Evaluation Summary
+## Recorded Evaluation Summary
 
 ```text
 Documents: 60
@@ -524,3 +551,14 @@ Evaluation queries: 5
 Hit@5: 100.00%
 MRR: 0.7000
 ```
+---
+
+## Limitations and Future Work
+
+- The evaluation currently includes only five queries; a larger, more varied benchmark would give a more reliable picture of retrieval quality.
+- The current implementation covers collection through semantic retrieval and evaluation, **not** LLM-based answer generation.
+- Future extensions could include more systematic retrieval comparisons, expanded evaluation coverage, and integration with a downstream generation component.
+
+## Source Attribution
+
+The project processes material from official EU sources, including the EU AI Act Service Desk and the European Commission’s Shaping Europe’s Digital Future resources. Individual document URLs and metadata are tracked in `data/sources.json` and the document records. This repository is an independent technical implementation and is not an official EU service.
