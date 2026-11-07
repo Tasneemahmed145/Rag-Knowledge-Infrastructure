@@ -1,0 +1,16 @@
+{
+  "document_id": "doc_051",
+  "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-51",
+  "title": "Article 51: Classification of general-purpose AI models as general-purpose AI models with systemic risk | AI Act Service Desk",
+  "source_domain": "ai-act-service-desk.ec.europa.eu",
+  "source_type": "official_eu_legislation",
+  "topic": "GPAI Models with Systemic Risk",
+  "content": "Article 51: Classification of general-purpose AI models as general-purpose AI models with systemic risk\nSummary\nThe article defines criteria for classifying general-purpose AI models as having systemic risk. Models are considered systemic risk if they have high impact capabilities, as evaluated by technical tools and methodologies. The European Commission can also designate models as having systemic risk based on specific criteria either on its own initiative (ex officio) or after a qualified alert from the scientific panel. Models being trained with more than 10^25 floating point operations are presumed to have high impact capabilities.\nThe summaries are meant to provide helpful explanation but are not legal binding.\n1. A general-purpose AI model shall be classified as a general-purpose AI model with systemic risk if it meets any of the following conditions:\n(a)\nit has high impact capabilities evaluated on the basis of appropriate technical tools and methodologies, including indicators and benchmarks;\n(b)\nbased on a decision of the Commission, ex officio or following a qualified alert from the scientific panel, it has capabilities or an impact equivalent to those set out in point (a) having regard to the criteria set out in Annex XIII.\n2. A general-purpose AI model shall be presumed to have high impact capabilities pursuant to paragraph 1, point (a), when the cumulative amount of computation used for its training measured in floating point operations is greater than 10^25.\n3. The Commission shall adopt delegated acts in accordance with Article 97 to amend the thresholds listed in paragraphs 1 and 2 of this Article, as well as to supplement benchmarks and indicators in light of evolving technological developments, such as algorithmic improvements or increased hardware efficiency, when necessary, for these thresholds to reflect the state of the art.\nRelevant recitals\nRecital 110\nRecital 111\nRecital 113\nRecital 163\nOther resources\nGuidelines on the scope of the obligations for general-purpose AI models\nView the\nofficial text\n. The text used in this tool is the ‘\nArtificial Intelligence Act (Regulation (EU) 2024/1689), Official version of 13 June 2024\n’.",
+  "collected_at": "2026-08-25T12:45:08.286736",
+  "cleaning_metadata": {
+    "raw_characters": 11841,
+    "cleaned_characters": 2189,
+    "removed_characters": 9652,
+    "cleaning_status": "success"
+  }
+}

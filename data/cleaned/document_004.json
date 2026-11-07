@@ -1,0 +1,16 @@
+{
+  "document_id": "doc_004",
+  "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-4",
+  "title": "Article 4: AI literacy | AI Act Service Desk",
+  "source_domain": "ai-act-service-desk.ec.europa.eu",
+  "source_type": "official_eu_legislation",
+  "topic": "AI Literacy",
+  "content": "Article 4: AI literacy\nSummary\nProviders and deployers of AI systems should take measures to ensure a sufficient level of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf. They should do so by taking into account their technical knowledge, experience, education and training as well as the context the AI systems are to be used in and the persons on whom the AI systems are to be used.\nThe summaries are meant to provide helpful explanation but are not legal binding.\nProviders and deployers of AI systems shall take measures to ensure, to their best extent, a sufficient level of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf, taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons on whom the AI systems are to be used.\nRelevant recitals\nRecital 20\nView the\nofficial text\n. The text used in this tool is the ‘\nArtificial Intelligence Act (Regulation (EU) 2024/1689), Official version of 13 June 2024\n’.",
+  "collected_at": "2026-08-25T12:40:17.329020",
+  "cleaning_metadata": {
+    "raw_characters": 10849,
+    "cleaned_characters": 1155,
+    "removed_characters": 9694,
+    "cleaning_status": "success"
+  }
+}

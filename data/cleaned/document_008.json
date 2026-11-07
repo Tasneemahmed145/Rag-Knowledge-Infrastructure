@@ -1,0 +1,16 @@
+{
+  "document_id": "doc_008",
+  "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-8",
+  "title": "Article 8: Compliance with the requirements | AI Act Service Desk",
+  "source_domain": "ai-act-service-desk.ec.europa.eu",
+  "source_type": "official_eu_legislation",
+  "topic": "High-Risk AI Compliance",
+  "content": "Article 8: Compliance with the requirements\nSummary\nHigh-risk AI systems must comply with the requirements set out in the AI Act, taking into account what they are used for and the latest developments in AI technology. If a product includes an AI system from Section A of Annex I, providers can simplify their work by merging the required testing, reporting, and documentation with the existing processes mandated by EU laws, avoiding unnecessary duplication.\nThe summaries are meant to provide helpful explanation but are not legal binding.\n1. High-risk AI systems shall comply with the requirements laid down in this Section, taking into account their intended purpose as well as the generally acknowledged state of the art on AI and AI-related technologies. The risk management system referred to in Article 9 shall be taken into account when ensuring compliance with those requirements.\n2. Where a product contains an AI system, to which the requirements of this Regulation as well as requirements of the Union harmonisation legislation listed in Section A of Annex I apply, providers shall be responsible for ensuring that their product is fully compliant with all applicable requirements under applicable Union harmonisation legislation. In ensuring the compliance of high-risk AI systems referred to in paragraph 1 with the requirements set out in this Section, and in order to ensure consistency, avoid duplication and minimise additional burdens, providers shall have a choice of integrating, as appropriate, the necessary testing and reporting processes, information and documentation they provide with regard to their product into documentation and procedures that already exist and are required under the Union harmonisation legislation listed in Section A of Annex I.\nRelevant recitals\nRecital 46\nRecital 48\nView the\nofficial text\n. The text used in this tool is the ‘\nArtificial Intelligence Act (Regulation (EU) 2024/1689), Official version of 13 June 2024\n’.",
+  "collected_at": "2026-08-25T12:40:30.794361",
+  "cleaning_metadata": {
+    "raw_characters": 11518,
+    "cleaned_characters": 1974,
+    "removed_characters": 9544,
+    "cleaning_status": "success"
+  }
+}

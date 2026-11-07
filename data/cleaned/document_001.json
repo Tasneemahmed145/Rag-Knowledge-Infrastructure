@@ -1,0 +1,16 @@
+{
+  "document_id": "doc_001",
+  "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-1",
+  "title": "Article 1: Subject matter | AI Act Service Desk",
+  "source_domain": "ai-act-service-desk.ec.europa.eu",
+  "source_type": "official_eu_legislation",
+  "topic": "Subject Matter",
+  "content": "Article 1: Subject matter\nSummary\nThe AI Act aims to improve the functioning of the European market by creating uniform rules for AI systems and models. These common rules guide everyone who develops, provides or deploys AI systems and models, making it easier for businesses and entrepreneurs to know what is required and helping consumers trust AI products. It also promotes the development and use of AI that is safe and respects fundamental rights and EU values. Lastly, it encourages innovation, especially for SMEs and startups.\nThe summaries are meant to provide helpful explanation but are not legal binding.\n1. The purpose of this Regulation is to improve the functioning of the internal market and promote the uptake of human-centric and trustworthy artificial intelligence (AI), while ensuring a high level of protection of health, safety, fundamental rights enshrined in the Charter, including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union and supporting innovation.\n2. This Regulation lays down:\n(a)\nharmonised rules for the placing on the market, the putting into service, and the use of AI systems in the Union;\n(b)\nprohibitions of certain AI practices;\n(c)\nspecific requirements for high-risk AI systems and obligations for operators of such systems;\n(d)\nharmonised transparency rules for certain AI systems;\n(e)\nharmonised rules for the placing on the market of general-purpose AI models;\n(f)\nrules on market monitoring, market surveillance, governance and enforcement;\n(g)\nmeasures to support innovation, with a particular focus on SMEs, including start-ups.\nRelevant recitals\nRecital 1\nRecital 2\nRecital 3\nRecital 6\nRecital 7\nRecital 8\nView the\nofficial text\n. The text used in this tool is the ‘\nArtificial Intelligence Act (Regulation (EU) 2024/1689), Official version of 13 June 2024\n’.",
+  "collected_at": "2026-08-25T12:40:08.006328",
+  "cleaning_metadata": {
+    "raw_characters": 11578,
+    "cleaned_characters": 1874,
+    "removed_characters": 9704,
+    "cleaning_status": "success"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "query": "What is the subject matter and purpose of the EU AI Act?",
+    "expected_document_id": "doc_001"
+  },
+  {
+    "query": "Which AI systems and providers fall within the scope of the AI Act?",
+    "expected_document_id": "doc_002"
+  },
+  {
+    "query": "What AI practices are prohibited under the AI Act?",
+    "expected_document_id": "doc_005"
+  },
+  {
+    "query": "What are the requirements for human oversight of high-risk AI systems?",
+    "expected_document_id": "doc_014"
+  },
+  {
+    "query": "What obligations apply to providers of high-risk AI systems?",
+    "expected_document_id": "doc_016"
+  }
+]

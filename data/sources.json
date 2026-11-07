@@ -1,0 +1,302 @@
+[
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-1",
+    "source_type": "official_eu_legislation",
+    "topic": "Subject Matter"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-2",
+    "source_type": "official_eu_legislation",
+    "topic": "Scope"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-3",
+    "source_type": "official_eu_legislation",
+    "topic": "AI Act Definitions"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-4",
+    "source_type": "official_eu_legislation",
+    "topic": "AI Literacy"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-5",
+    "source_type": "official_eu_legislation",
+    "topic": "Prohibited AI Practices"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-6",
+    "source_type": "official_eu_legislation",
+    "topic": "High-Risk AI Classification"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-7",
+    "source_type": "official_eu_legislation",
+    "topic": "High-Risk AI Annex Amendments"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-8",
+    "source_type": "official_eu_legislation",
+    "topic": "High-Risk AI Compliance"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-9",
+    "source_type": "official_eu_legislation",
+    "topic": "Risk Management"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-10",
+    "source_type": "official_eu_legislation",
+    "topic": "Data and Data Governance"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-11",
+    "source_type": "official_eu_legislation",
+    "topic": "Technical Documentation"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-12",
+    "source_type": "official_eu_legislation",
+    "topic": "Record Keeping"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-13",
+    "source_type": "official_eu_legislation",
+    "topic": "Transparency for High-Risk AI"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14",
+    "source_type": "official_eu_legislation",
+    "topic": "Human Oversight"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-15",
+    "source_type": "official_eu_legislation",
+    "topic": "Accuracy Robustness and Cybersecurity"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-16",
+    "source_type": "official_eu_legislation",
+    "topic": "Provider Obligations"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-17",
+    "source_type": "official_eu_legislation",
+    "topic": "Quality Management"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-18",
+    "source_type": "official_eu_legislation",
+    "topic": "Documentation Keeping"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-19",
+    "source_type": "official_eu_legislation",
+    "topic": "Automatically Generated Logs"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-20",
+    "source_type": "official_eu_legislation",
+    "topic": "Corrective Actions"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-21",
+    "source_type": "official_eu_legislation",
+    "topic": "Cooperation with Authorities"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-22",
+    "source_type": "official_eu_legislation",
+    "topic": "Authorised Representatives"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-23",
+    "source_type": "official_eu_legislation",
+    "topic": "Importer Obligations"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-24",
+    "source_type": "official_eu_legislation",
+    "topic": "Distributor Obligations"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-25",
+    "source_type": "official_eu_legislation",
+    "topic": "AI Value Chain Responsibilities"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-26",
+    "source_type": "official_eu_legislation",
+    "topic": "High-Risk AI Deployer Obligations"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-27",
+    "source_type": "official_eu_legislation",
+    "topic": "Fundamental Rights Impact Assessment"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-28",
+    "source_type": "official_eu_legislation",
+    "topic": "Notifying Authorities"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-29",
+    "source_type": "official_eu_legislation",
+    "topic": "Conformity Assessment Bodies"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-30",
+    "source_type": "official_eu_legislation",
+    "topic": "Notified Bodies"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-31",
+    "source_type": "official_eu_legislation",
+    "topic": "Application of Conformity Assessment Bodies"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-32",
+    "source_type": "official_eu_legislation",
+    "topic": "Notification Procedure"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-33",
+    "source_type": "official_eu_legislation",
+    "topic": "Requirements for Notified Bodies"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-34",
+    "source_type": "official_eu_legislation",
+    "topic": "Subsidiaries and Subcontracting"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-35",
+    "source_type": "official_eu_legislation",
+    "topic": "Identification and Codes"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-36",
+    "source_type": "official_eu_legislation",
+    "topic": "Changes to Notifications"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-37",
+    "source_type": "official_eu_legislation",
+    "topic": "Competence of Notified Bodies"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-38",
+    "source_type": "official_eu_legislation",
+    "topic": "Coordination of Notified Bodies"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-39",
+    "source_type": "official_eu_legislation",
+    "topic": "Third Country Conformity Bodies"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-40",
+    "source_type": "official_eu_legislation",
+    "topic": "Harmonised Standards"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-41",
+    "source_type": "official_eu_legislation",
+    "topic": "Common Specifications"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-42",
+    "source_type": "official_eu_legislation",
+    "topic": "Presumption of Conformity"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-43",
+    "source_type": "official_eu_legislation",
+    "topic": "Conformity Assessment"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-44",
+    "source_type": "official_eu_legislation",
+    "topic": "Certificates"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-45",
+    "source_type": "official_eu_legislation",
+    "topic": "Information Obligations of Notified Bodies"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-46",
+    "source_type": "official_eu_legislation",
+    "topic": "Derogation from Conformity Assessment"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-47",
+    "source_type": "official_eu_legislation",
+    "topic": "EU Declaration of Conformity"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-48",
+    "source_type": "official_eu_legislation",
+    "topic": "CE Marking"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-49",
+    "source_type": "official_eu_legislation",
+    "topic": "Registration"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50",
+    "source_type": "official_eu_legislation",
+    "topic": "AI Transparency and Synthetic Content"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-51",
+    "source_type": "official_eu_legislation",
+    "topic": "GPAI Models with Systemic Risk"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-52",
+    "source_type": "official_eu_legislation",
+    "topic": "GPAI Classification Procedure"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53",
+    "source_type": "official_eu_legislation",
+    "topic": "GPAI Provider Obligations"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-54",
+    "source_type": "official_eu_legislation",
+    "topic": "GPAI Authorised Representatives"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-55",
+    "source_type": "official_eu_legislation",
+    "topic": "GPAI Systemic Risk Obligations"
+  },
+  {
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "source_type": "official_government",
+    "topic": "EU AI Act Overview"
+  },
+  {
+    "url": "https://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act",
+    "source_type": "official_government",
+    "topic": "EU AI Act Guidance"
+  },
+  {
+    "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/eu-ai-act-implementation-timeline",
+    "source_type": "official_government",
+    "topic": "AI Act Implementation Timeline"
+  },
+  {
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-transparency-obligations",
+    "source_type": "official_government",
+    "topic": "AI Transparency Guidelines"
+  },
+  {
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+    "source_type": "official_government",
+    "topic": "General-Purpose AI Code of Practice"
+  }
+]

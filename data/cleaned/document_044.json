@@ -1,0 +1,16 @@
+{
+  "document_id": "doc_044",
+  "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-44",
+  "title": "Article 44: Certificates | AI Act Service Desk",
+  "source_domain": "ai-act-service-desk.ec.europa.eu",
+  "source_type": "official_eu_legislation",
+  "topic": "Certificates",
+  "content": "Article 44: Certificates\nSummary\nCertificates issued by notified bodies must be in a language understood by the relevant authorities and are valid for up to five years for Annex I systems and four years for Annex III systems, with possible extensions. If an AI system no longer meets requirements, the notified body can suspend, withdraw, or restrict the certificate, unless the provider takes corrective action. An appeal procedure is available for decisions made by notified bodies.\nThe summaries are meant to provide helpful explanation but are not legal binding.\n1. Certificates issued by notified bodies in accordance with Annex VII shall be drawn-up in a language which can be easily understood by the relevant authorities in the Member State in which the notified body is established.\n2. Certificates shall be valid for the period they indicate, which shall not exceed five years for AI systems covered by Annex I, and four years for AI systems covered by Annex III. At the request of the provider, the validity of a certificate may be extended for further periods, each not exceeding five years for AI systems covered by Annex I, and four years for AI systems covered by Annex III, based on a re-assessment in accordance with the applicable conformity assessment procedures. Any supplement to a certificate shall remain valid, provided that the certificate which it supplements is valid.\n3. Where a notified body finds that an AI system no longer meets the requirements set out in Section 2, it shall, taking account of the principle of proportionality, suspend or withdraw the certificate issued or impose restrictions on it, unless compliance with those requirements is ensured by appropriate corrective action taken by the provider of the system within an appropriate deadline set by the notified body. The notified body shall give reasons for its decision.\nAn appeal procedure against decisions of the notified bodies, including on conformity certificates issued, shall be available.\nView the\nofficial text\n. The text used in this tool is the ‘\nArtificial Intelligence Act (Regulation (EU) 2024/1689), Official version of 13 June 2024\n’.",
+  "collected_at": "2026-08-25T12:44:12.842388",
+  "cleaning_metadata": {
+    "raw_characters": 11680,
+    "cleaned_characters": 2149,
+    "removed_characters": 9531,
+    "cleaning_status": "success"
+  }
+}

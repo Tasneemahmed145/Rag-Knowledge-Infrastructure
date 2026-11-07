@@ -1,0 +1,16 @@
+{
+  "document_id": "doc_045",
+  "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-45",
+  "title": "Article 45: Information obligations of notified bodies | AI Act Service Desk",
+  "source_domain": "ai-act-service-desk.ec.europa.eu",
+  "source_type": "official_eu_legislation",
+  "topic": "Information Obligations of Notified Bodies",
+  "content": "Article 45: Information obligations of notified bodies\nSummary\nNotified bodies must inform the notifying authority about issued certificates, refusals, restrictions, suspensions, withdrawals, and any changes affecting their notification scope. They must also share this information with other notified bodies, including details on quality management system approvals and technical documentation assessment certificates. Notified bodies must exchange relevant information on conformity assessment results with each other while safeguarding confidentiality.\nThe summaries are meant to provide helpful explanation but are not legal binding.\n1. Notified bodies shall inform the notifying authority of the following:\n(a)\nany Union technical documentation assessment certificates, any supplements to those certificates, and any quality management system approvals issued in accordance with the requirements of Annex VII;\n(b)\nany refusal, restriction, suspension or withdrawal of a Union technical documentation assessment certificate or a quality management system approval issued in accordance with the requirements of Annex VII;\n(c)\nany circumstances affecting the scope of or conditions for notification;\n(d)\nany request for information which they have received from market surveillance authorities regarding conformity assessment activities;\n(e)\non request, conformity assessment activities performed within the scope of their notification and any other activity performed, including cross-border activities and subcontracting.\n2. Each notified body shall inform the other notified bodies of:\n(a)\nquality management system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued;\n(b)\nUnion technical documentation assessment certificates or any supplements thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, of the certificates and/or supplements thereto which it has issued.\n3. Each notified body shall provide the other notified bodies carrying out similar conformity assessment activities covering the same types of AI systems with relevant information on issues relating to negative and, on request, positive conformity assessment results.\n4. Notified bodies shall safeguard the confidentiality of the information that they obtain, in accordance with Article 78.\nView the\nofficial text\n. The text used in this tool is the ‘\nArtificial Intelligence Act (Regulation (EU) 2024/1689), Official version of 13 June 2024\n’.",
+  "collected_at": "2026-08-25T12:44:22.154115",
+  "cleaning_metadata": {
+    "raw_characters": 12122,
+    "cleaned_characters": 2529,
+    "removed_characters": 9593,
+    "cleaning_status": "success"
+  }
+}
